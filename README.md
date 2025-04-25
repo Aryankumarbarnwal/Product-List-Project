@@ -7,6 +7,7 @@ This is a **Product Listing** web application built using the **MERN stack** (Mo
 - **Frontend:** React, HTML, CSS, JavaScript
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
+- **TOOLS:** MongoDB Compass, Postman VS Code, 
 
 ## 🌟 Features
 
